@@ -11,5 +11,7 @@ A major thing that gets altered is how references are handled. I have to remove 
 ## Official_Frequently_Asked_Questions
 This page will contain all FAQs that MF decides as "official" including those posted in Discord. So, reponses to chat won't be here. FAQ that is posted in Discord but not online needs to mentioned and cited as such.
 
+In order to check if the online FAQ has changed, create an wayback machine archive then use the "Changes" button to detect if any changes have been made since the last snapshot. Discord changes need to be manually checked though but Discord will at least create a notification if anything is added or edited.
+
 ## Community_Frequently_Asked_Questions
 This page will contain community user created information. This can include responses to community questions. This page will be a stub until enough information is gathered.
