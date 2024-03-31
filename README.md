@@ -40,3 +40,7 @@ This page will contain community user created information. This can include resp
 - Platforms, Cloud-Native, VR, Controller, and Ultrawide Support: Contains some platform info
 - Pax Dei YouTube Community Post announcing the Tech FAQ: Not sure about the source of this. Sounds like a response to a query outside Discord
 - Pax Dei(Synopsis): Collection of some statements made for Pax Dei
+- Official Videos: Videos from the Pax Dei youtube channel
+- Official Discord: Link to the official discord
+- News and Updates: A page of discord announcements
+- Nature, Weather, Seasons, Day/Night Cycles: how the environment cycles work
