@@ -44,3 +44,19 @@ This page will contain community user created information. This can include resp
 - Official Discord: Link to the official discord
 - News and Updates: A page of discord announcements
 - Nature, Weather, Seasons, Day/Night Cycles: how the environment cycles work
+- Monetization: Some info on how monetization is done
+- Leatherworking: a blank page with a todo
+- Gear, Weapons, Equipment, and Inventory: duplicated links to other pages
+- Gameplay: duplicated links to other pages
+- Gallia: some quotes from discords about the region Galia
+- Funding: investors who have backed MF
+- Discord Bot Integration: a discord bot to integrate to the wiki
+- Design Pillars: mentioning the design pillars which is already present in other places
+- Dark Mode on the Wiki: article on how to enable dark mode in the wiki
+- Crafting and Gathering: duplicated links to other pages
+- Conference Attendance: a page about devs attending GDC 2023
+- Cheating, Security, and Game Masters: duplicated and elaborated in Security and game masters
+- Casual Players: duplicated in Solo Play and Extended FAQ
+- Basics: links to other pages
+- Audio and Soundtrack: some info about Audio but might also contain info from [[Extended FAQ]]
+- Alchemy: a blank todo page
