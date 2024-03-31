@@ -12,6 +12,11 @@ A major thing that gets altered is how references are handled. I have to remove 
 
 I have also added the IPA pronunciation and official pronunciation to the wiki. In wikipedia, the `{{IPA-la}}` and a combination of `{{Notetag}}` and `{{NoteFoot}}` are used for added notes.
 
+### Mainframe Industries
+This is also copied over from wikipedia at https://en.wikipedia.org/wiki/Draft:Mainframe_Industries. Its still a draft in Wikipedia as its not accepted yet. THe overall idea is the same as the Pax Dei page, we should keep this in sync.
+
+Also similar to the Pax Dei page, templates are missing, additionally the `{{Infobox}}` template which I have completely removed.
+
 ### Official Frequently Asked Questions
 This page will contain all FAQs that MF decides as "official" including those posted in Discord. So, reponses to chat won't be here. FAQ that is posted in Discord but not online needs to mentioned and cited as such.
 
@@ -28,3 +33,5 @@ This page will contain community user created information. This can include resp
 - World FAQ: Incorporated into the FAQ
 - Pax Dei Name: Contains some tidbits about the name and pronunciation. Incorporated into the Pax Dei page
 - Inspiration: Contains info that is already present in Extended FAQ
+- Wiki discord: Contains the link to the wiki discord
+- Zones, Nature, and the World: Contains links to other articles only
