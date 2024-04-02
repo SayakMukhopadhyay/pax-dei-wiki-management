@@ -1,0 +1,45 @@
+# Basics
+- Overview
+    - Pax Dei
+    - Design Pillars
+    - Development
+        - Inspiration
+    - Tech
+    - Platforms
+    - Servers, Regions, and Languages -> Split up
+- Extended FAQ / Frequently Asked Questions
+    - Monetization
+    - Leveling / Leveling, Progression, Classes, and Skills
+    - Nature, Weather, Seasons, Day/Night Cycles
+    - Community Frequently Asked Questions -> Empty
+- Building
+- Player Characters
+- Economy
+- Lore
+    - Lore FAQ
+- Gear and Weapons
+- Crafting
+    - Gathering
+    - Leatherworking
+- Gameplay
+    - Social Systems
+    - Trading
+    - Solo Play
+    - PVE
+    - PVP
+    - Combat
+        - Magic
+    - Inventory / Inventory and Storage
+# Map
+- Zones, Nature, and the World
+- Heartlands
+- Contested Provinces
+- Gallia
+# Community
+- Community Resources
+- Unofficial Content Creators
+- Special Thanks
+# Wiki
+- Discord Bot Integration
+- Wiki Community
+- Wiki discord
