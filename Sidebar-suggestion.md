@@ -1,6 +1,6 @@
 # Basics
 - Overview
-- Extended FAQ / Frequently Asked Questions
+- Extended FAQ / Frequently Asked Questions (consolidate and simplify FAQ)
 - Building
 - Player Characters
 - Economy
@@ -15,7 +15,7 @@
 - Gallia
 # Community
 - Community Resources
-- Unofficial Content Creators
+- Unofficial Content Creators (rename to "Content Creators")
 - Special Thanks
 # Wiki
 - Discord Bot Integration
